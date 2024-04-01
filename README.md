@@ -65,14 +65,17 @@ endmodule
 
 
 OUTPUT:
+
 Full Adder(Simulation):
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/f0464907-7284-4643-a349-6c38d5eb2801)
+
 Full Adder(Eloborated Design):
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/6984340f-f663-4a3f-b50e-f7e25408a86a)
 
 
 #2:-
 FULL_SUBTRACTOR:-
+
 full_subtractor(code):
 ```
 // fullsubtractor using gate level modeling
@@ -89,9 +92,28 @@ or o1(borrow,w4,w5,w6);
 endmodule
 ```
 OUTPUT:
+
 Full Subtractor(Simulation):
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/66c47d7e-f7f8-425e-bd20-2b5b73e54900)
+
 Full Subtractor(Eloborated Design):
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/9ee0dc43-ff8e-4eac-8181-6aed85b78779)
 
 
+#3:-
+Half_adder(code):
+```
+module half_adder(a,b,sum,carry);
+input a,b;
+output sum,carry; // sum and carry
+or(sum,a,b);
+and(carry,a,b);
+endmodule
+```
+OUTPUT:
+
+Half Adder(Simulation):
+![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/13cd7926-69c1-45fb-913d-9255510c0744)
+
+Half Adder(Eloborated Design):
+![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/446589ff-2579-4f91-a02b-2589a107f646)
