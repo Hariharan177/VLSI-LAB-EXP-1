@@ -71,5 +71,27 @@ Full Adder(Eloborated Design):
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/6984340f-f663-4a3f-b50e-f7e25408a86a)
 
 
-RESULT:
+#2:-
+FULL_SUBTRACTOR:-
+full_subtractor(code):
+```
+// fullsubtractor using gate level modeling
+module full_sub(borrow,diff,a,b,c);
+output borrow,diff;
+input a,b,c;
+wire w1,w4,w5,w6;
+xor (diff,a,b,c);
+not n1(w1,a);
+and a1(w4,w1,b);
+and a2(w5,w1,c);
+and a3(w6,b,c);
+or o1(borrow,w4,w5,w6);
+endmodule
+```
+OUTPUT:
+Full Subtractor(Simulation):
+![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/66c47d7e-f7f8-425e-bd20-2b5b73e54900)
+Full Subtractor(Eloborated Design):
+![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/9ee0dc43-ff8e-4eac-8181-6aed85b78779)
+
 
