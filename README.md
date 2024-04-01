@@ -117,3 +117,23 @@ Half Adder(Simulation):
 
 Half Adder(Eloborated Design):
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/446589ff-2579-4f91-a02b-2589a107f646)
+
+#4:-
+Half_Subtractor(code):
+```
+module halfsubtractor( D,Bo,A,B);
+input A,B;
+output D,Bo;
+wire w1;
+xor (D,A,B);
+not (w1,B);
+and (Bo,B,w1);
+endmodule
+```
+OUTPUT:
+
+Half Subtractor(Simulation):
+![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/36c716d8-0b17-47e3-9422-c7bb83d44777)
+
+Half Subtractor(Code):
+![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/6b30308f-624c-4ce0-8040-fd58930844ef)
