@@ -135,5 +135,65 @@ OUTPUT:
 Half Subtractor(Simulation):
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/36c716d8-0b17-47e3-9422-c7bb83d44777)
 
-Half Subtractor(Code):
+Half Subtractor(Eloborated Design):
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/6b30308f-624c-4ce0-8040-fd58930844ef)
+
+#5:-
+Logic_gates(code):
+```
+module logicgates(a,b,andgate,orgate,xorgate,nandgate,norgate,xnorgate,notgate);
+input a,b;
+output andgate,orgate,xorgate,nandgate,norgate,xnorgate,notgate;
+and(andgate,a,b);
+or(orgate,a,b);
+xor(xorgate,a,b);
+nand(nandgate,a,b);  
+nor(norgate,a,b);
+xnor(xnorgate,a,b);
+not(notgate,a);
+endmodule
+```
+OUTPUT:
+
+Logic Gates(Simulation):
+![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/39b4d06a-77ff-4198-a9d8-2ce5544a434e)
+
+Logic Gates(Eloborated Design):
+![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/7982845f-6733-4365-8536-625416745ddb)
+
+#6:-
+RIPPLE_CARRY_Adder(4-BIT):-
+```
+module rippe_adder(S, Cout, X, Y,Cin);
+input [3:0] X, Y;// Two 4-bit inputs
+input Cin;
+output [3:0] S;
+output Cout;
+wire wl, w2, w3;
+
+fulladder u1(S[0], w1,X[0], Y[0], Cin);
+fulladder u2(S[1], w2,X[1], Y[1], w1);
+fulladder u3(S[2], w3,X[2], Y[2], w2);
+fulladder u4(S[3], Cout,X[3], Y[3], w3);
+endmodule
+module fulladder(S, Co, X, Y, Ci);
+input X, Y, Ci;
+output S, Co;
+wire w1,w2,w3;
+//Structural code for one bit full adder 
+xor G1(wl, X, Y);
+xor G2(S, w1, Ci);
+and G3(w2, w1, Ci);
+and G4(w3, X, Y);
+or  G5(Co, w2, w3);
+endmodule
+```
+OUTPUT:
+
+RIPPLE_CARRY_Adder(4-BIT)(Simulation):
+![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/2f2b91ce-bcad-4eb3-8c96-ab53c7817d4a)
+
+RIPPLE_CARRY_Adder(4-BIT)(Eloborated Design):
+![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/db6a9c7c-9fd1-4eba-a794-cd0c21ac3b96)
+
+#7:-
