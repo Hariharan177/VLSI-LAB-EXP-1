@@ -266,3 +266,5 @@ RIPPLE_CARRY_Adder(8-BIT)(Simulation):
 
 RIPPLE_CARRY_Adder(8-BIT)(Eloborated Design):
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/65a69b7f-d91d-4e0f-a4b8-17f5d8f0ee86)
+
+RESULT: Simulation and synthesis of Logic Gates,Adders and Subtractor are succesfully verified using Vivado Software
