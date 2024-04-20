@@ -175,10 +175,10 @@ endmodule
 OUTPUT:
 
 Logic Gates(Simulation):
-![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/39b4d06a-77ff-4198-a9d8-2ce5544a434e)
+![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/22e1a918-4f75-4847-a0bf-d57bdbbe21a4)
 
 Logic Gates(Eloborated Design):
-![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/7982845f-6733-4365-8536-625416745ddb)
+![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/0cd6e3f8-830d-4a72-87c1-8d24beff39d0)
 
 #6:-
 RIPPLE_CARRY_Adder(4-BIT):-
@@ -210,10 +210,10 @@ endmodule
 OUTPUT:
 
 RIPPLE_CARRY_Adder(4-BIT)(Simulation):
-![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/2f2b91ce-bcad-4eb3-8c96-ab53c7817d4a)
+![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/01ba36d7-266c-42ca-b1fc-88ef2507058c)
 
 RIPPLE_CARRY_Adder(4-BIT)(Eloborated Design):
-![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/db6a9c7c-9fd1-4eba-a794-cd0c21ac3b96)
+![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/2a8e9170-9bfe-466c-a8fa-86441302b609)
 
 #7:-
 RIPPLE_CARRY_ADDER(8-BIT):-
