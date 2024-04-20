@@ -132,10 +132,10 @@ endmodule
 OUTPUT:
 
 Half Adder(Simulation):
-![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/13cd7926-69c1-45fb-913d-9255510c0744)
+![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/d29d151a-9d3e-47cc-b36d-20faef9b7e66)
 
 Half Adder(Eloborated Design):
-![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/446589ff-2579-4f91-a02b-2589a107f646)
+![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/362085c4-47d2-4601-81d5-21cfdfe0b085)
 
 #4:-
 Half_Subtractor(code):
