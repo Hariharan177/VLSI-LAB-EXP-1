@@ -85,10 +85,10 @@ endmodule
 OUTPUT:
 
 Full Adder(Simulation):
-![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/f0464907-7284-4643-a349-6c38d5eb2801)
+![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/0478f98a-81c0-40c2-9204-2596fc524a33)
 
 Full Adder(Eloborated Design):
-![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/6984340f-f663-4a3f-b50e-f7e25408a86a)
+![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/a31f9efa-dfc5-4a83-9bff-c1df46f53860)
 
 
 #2:-
