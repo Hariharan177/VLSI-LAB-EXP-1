@@ -262,7 +262,7 @@ endmodule
 OUTPUT:
 
 RIPPLE_CARRY_Adder(8-BIT)(Simulation):
-![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/7492e6d9-6296-4667-8268-a65b69011873)
+![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/3e145895-0938-462c-84e3-8f5ccc05342b)
 
 RIPPLE_CARRY_Adder(8-BIT)(Eloborated Design):
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/65a69b7f-d91d-4e0f-a4b8-17f5d8f0ee86)
