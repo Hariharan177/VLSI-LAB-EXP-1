@@ -113,7 +113,7 @@ endmodule
 OUTPUT:
 
 Full Subtractor(Simulation):
-![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/18545e72-558a-4702-9215-6e93a8569e88)
+![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/c3d6447e-3764-4510-9bd5-2cfcb70f06e7)
 
 Full Subtractor(Eloborated Design):
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/9ee0dc43-ff8e-4eac-8181-6aed85b78779)
