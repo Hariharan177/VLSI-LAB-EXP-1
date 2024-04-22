@@ -132,9 +132,12 @@ endmodule
 OUTPUT:
 
 Half Adder(Simulation):
-![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/d29d151a-9d3e-47cc-b36d-20faef9b7e66)
+
+![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/8f3d3ac4-e13e-4478-b9cc-13c38ca97f89)
+
 
 Half Adder(Eloborated Design):
+
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/362085c4-47d2-4601-81d5-21cfdfe0b085)
 
 #4:-
@@ -175,7 +178,7 @@ endmodule
 OUTPUT:
 
 Logic Gates(Simulation):
-![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/22e1a918-4f75-4847-a0bf-d57bdbbe21a4)
+![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/32836482-d78b-438c-9fb7-b7577d628b9f)
 
 Logic Gates(Eloborated Design):
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/0cd6e3f8-830d-4a72-87c1-8d24beff39d0)
@@ -210,7 +213,8 @@ endmodule
 OUTPUT:
 
 RIPPLE_CARRY_Adder(4-BIT)(Simulation):
-![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/01ba36d7-266c-42ca-b1fc-88ef2507058c)
+![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/71288040-0fa4-429d-9dc5-44ea04f2c2ae)
+
 
 RIPPLE_CARRY_Adder(4-BIT)(Eloborated Design):
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/2a8e9170-9bfe-466c-a8fa-86441302b609)
@@ -262,9 +266,9 @@ endmodule
 OUTPUT:
 
 RIPPLE_CARRY_Adder(8-BIT)(Simulation):
-![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/3e145895-0938-462c-84e3-8f5ccc05342b)
+![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/7793719d-bee3-4947-a578-768ffa03ba7d)
 
 RIPPLE_CARRY_Adder(8-BIT)(Eloborated Design):
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/65a69b7f-d91d-4e0f-a4b8-17f5d8f0ee86)
 
-RESULT: Simulation and synthesis of Logic Gates,Adders and Subtractor are succesfully verified using Vivado Software
+RESULT: The Simulation and synthesis of Logic Gates,Adders and Subtractor are succesfully verified using Vivado Software
