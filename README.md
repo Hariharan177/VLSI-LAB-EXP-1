@@ -27,6 +27,8 @@ PROCEDURE:
 Logic Diagram :
 
 Logic Gates:
+
+
 ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/ee17970c-3ac9-4603-881b-88e2825f41a4)
 
 
@@ -86,9 +88,11 @@ endmodule
 OUTPUT:
 
 Full Adder(Simulation):
+
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/0478f98a-81c0-40c2-9204-2596fc524a33)
 
 Full Adder(Eloborated Design):
+
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/a31f9efa-dfc5-4a83-9bff-c1df46f53860)
 
 
@@ -113,9 +117,11 @@ endmodule
 OUTPUT:
 
 Full Subtractor(Simulation):
+
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/c3d6447e-3764-4510-9bd5-2cfcb70f06e7)
 
 Full Subtractor(Eloborated Design):
+
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/9ee0dc43-ff8e-4eac-8181-6aed85b78779)
 
 
@@ -155,9 +161,11 @@ endmodule
 OUTPUT:
 
 Half Subtractor(Simulation):
+
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/36c716d8-0b17-47e3-9422-c7bb83d44777)
 
 Half Subtractor(Eloborated Design):
+
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/6b30308f-624c-4ce0-8040-fd58930844ef)
 
 #5:-
@@ -178,9 +186,11 @@ endmodule
 OUTPUT:
 
 Logic Gates(Simulation):
+
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/32836482-d78b-438c-9fb7-b7577d628b9f)
 
 Logic Gates(Eloborated Design):
+
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/0cd6e3f8-830d-4a72-87c1-8d24beff39d0)
 
 #6:-
@@ -213,10 +223,12 @@ endmodule
 OUTPUT:
 
 RIPPLE_CARRY_Adder(4-BIT)(Simulation):
+
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/71288040-0fa4-429d-9dc5-44ea04f2c2ae)
 
 
 RIPPLE_CARRY_Adder(4-BIT)(Eloborated Design):
+
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/2a8e9170-9bfe-466c-a8fa-86441302b609)
 
 #7:-
@@ -266,9 +278,12 @@ endmodule
 OUTPUT:
 
 RIPPLE_CARRY_Adder(8-BIT)(Simulation):
+
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/7793719d-bee3-4947-a578-768ffa03ba7d)
 
 RIPPLE_CARRY_Adder(8-BIT)(Eloborated Design):
+
 ![image](https://github.com/Hariharan177/VLSI-LAB-EXP-1/assets/164841000/65a69b7f-d91d-4e0f-a4b8-17f5d8f0ee86)
+
 
 RESULT: The Simulation and synthesis of Logic Gates,Adders and Subtractor are succesfully verified using Vivado Software
